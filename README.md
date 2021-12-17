@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronitrojasara
-- 👀 I’m interested in python
+- 👀 I’m interested in java, python and android development 
 - 🌱 I’m currently learning computers
 - 💞️ I’m looking on Instagram @ronitrojasara
 
