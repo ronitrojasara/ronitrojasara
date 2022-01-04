@@ -10,7 +10,10 @@ public class program{
         for(byte j=0;j<a;j++){
             A[i][j]=sc.nextByte();           
        }       
-}System.out.println("Answer is "+c(A,a));
+} if(a==2){
+         System.out.println(d(A,a));
+     }else{ System.out.println("Answer is "+c(A,a));
+}
 }
     public static int b(int B[],int a,int f){
     int g=0;
