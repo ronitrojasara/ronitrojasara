@@ -11,7 +11,7 @@ public class program{
             A[i][j]=sc.nextByte();           
        }       
 } if(a==2){
-         System.out.println(d(A,a));
+         System.out.println("Answer is "+d(A,a));
      }else{ System.out.println("Answer is "+c(A,a));
 }
 }
