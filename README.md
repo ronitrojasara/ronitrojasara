@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ronitrojasara
-- 👀 I’m interested in java, python and android development 
-- 🌱 I’m currently learning computers
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning android development 
 - 💞️ I’m looking on Instagram @ronitrojasara
